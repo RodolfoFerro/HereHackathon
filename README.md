@@ -19,7 +19,7 @@ $ conda env create -f environment.yml
 Para activar/desactivar el entorno, basta hacer:
 ```bash
 # Activar entorno virtual:
-$ conda activate visionbot
+$ conda activate hack-here
 
 # Desactivar entorno virtual:
 $ conda deactivate
