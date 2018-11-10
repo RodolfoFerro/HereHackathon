@@ -27,5 +27,5 @@ $ conda deactivate
 
 Para correr cualquier script, una vez que el entorno virtual está activo, hacemos:
 ```bash
-$ python nombre_del_script.py
+(hack-here)$ python nombre_del_script.py
 ```
